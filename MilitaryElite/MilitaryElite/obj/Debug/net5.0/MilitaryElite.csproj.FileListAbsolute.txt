@@ -1,0 +1,16 @@
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\MilitaryElite.exe
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\MilitaryElite.deps.json
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\MilitaryElite.runtimeconfig.json
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\MilitaryElite.runtimeconfig.dev.json
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\MilitaryElite.dll
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\ref\MilitaryElite.dll
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\bin\Debug\net5.0\MilitaryElite.pdb
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.dll
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\ref\MilitaryElite.dll
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.pdb
+C:\Users\radul\source\repos\MilitaryElite\MilitaryElite\obj\Debug\net5.0\MilitaryElite.genruntimeconfig.cache
