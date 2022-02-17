@@ -1,0 +1,14 @@
+C:\Users\radul\Desktop\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\radul\Desktop\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\radul\Desktop\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\radul\Desktop\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\radul\Desktop\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\radul\Desktop\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\radul\Desktop\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
